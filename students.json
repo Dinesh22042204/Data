@@ -1,0 +1,20 @@
+[
+    {
+      "Name": "Mani",
+      "Class": "X",
+      "FatherName": "Suresh",
+      "MotherNmae": "Lela",
+      "E-Mail ID": "hitr@gmil.com",
+      "Address": "231,Thomas street,Bell road, Kalos.",
+      "Mobile": "10567 89559"
+    },
+    {
+      "Name": "Kumar",
+      "Class": "X",
+      "FatherName": "Rahul",
+      "MotherNmae": "Sindhu",
+      "E-Mail ID": "jiku@gmil.com",
+      "Address": "231,Lahour street,Gem road, Kalos.",
+      "Mobile": "10337 88559"
+    }
+  ]
